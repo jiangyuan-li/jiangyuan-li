@@ -1,7 +1,7 @@
 ---
 ### Hi there 👋
 
-It's Jiangyuan, a Ph.D. student from TAMU STAT. I'm passionate about problem solving.
+It's Jiangyuan, a Ph.D. in STAT. I'm passionate about problem solving.
 
 ---
 ### Stats
